@@ -1,4 +1,4 @@
-Hey this is Godposeidon.
+Hey this is Rudra
 I’m interested in AI development.
  I’m currently learning python, java, c, c++ etc.
  I’m looking to collaborate with more interested students.
